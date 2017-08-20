@@ -1,0 +1,13 @@
+Perro
+Gato
+Leon
+Ganso
+Gorila
+Pollo
+Rata
+Ornitorrinco
+Jirafa
+Camello
+Lagartija
+Avestruz
+Gaviota
